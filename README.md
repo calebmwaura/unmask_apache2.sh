@@ -11,4 +11,7 @@ clone it to your prefered directory.
 $bash ./unmask_apache2.sh
 #and it should do the rest for you.
 
+#simple scripts.
+
+
 
